@@ -2,7 +2,7 @@
 	email = apocryphalauthor@gmail.com
 	name = Tom Dunlap
 [push]
-	default = simple
+	default = current
 [core]
 	excludesfile = /home/aauthor/.gitignore_global
 [alias]
